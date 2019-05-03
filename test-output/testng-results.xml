@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-04-28T05:08:21Z" name="WebDriver" finished-at="2019-04-28T05:08:28Z" duration-ms="6580">
+  <suite started-at="2019-05-03T01:52:20Z" name="WebDriver" finished-at="2019-05-03T01:52:29Z" duration-ms="8361">
     <groups>
     </groups>
-    <test started-at="2019-04-28T05:08:21Z" name="test" finished-at="2019-04-28T05:08:28Z" duration-ms="6580">
+    <test started-at="2019-05-03T01:52:20Z" name="test" finished-at="2019-05-03T01:52:29Z" duration-ms="8361">
       <class name="TestNG.addbook">
-        <test-method is-config="true" signature="launch()[pri:0, instance:TestNG.addbook@5c1a8622]" started-at="2019-04-28T05:08:21Z" name="launch" finished-at="2019-04-28T05:08:27Z" duration-ms="5370" status="PASS">
+        <test-method is-config="true" signature="launch()[pri:0, instance:TestNG.addbook@5c1a8622]" started-at="2019-05-03T01:52:20Z" name="launch" finished-at="2019-05-03T01:52:25Z" duration-ms="4997" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launch -->
-        <test-method signature="verifyaddbook()[pri:0, instance:TestNG.addbook@5c1a8622]" started-at="2019-04-28T05:08:27Z" name="verifyaddbook" finished-at="2019-04-28T05:08:28Z" duration-ms="1173" status="PASS">
+        <test-method signature="verifyaddbook()[pri:0, instance:TestNG.addbook@5c1a8622]" started-at="2019-05-03T01:52:25Z" name="verifyaddbook" finished-at="2019-05-03T01:52:26Z" duration-ms="1106" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyaddbook -->
-        <test-method is-config="true" signature="close()[pri:0, instance:TestNG.addbook@5c1a8622]" started-at="2019-04-28T05:08:28Z" name="close" finished-at="2019-04-28T05:08:28Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="close()[pri:0, instance:TestNG.addbook@5c1a8622]" started-at="2019-05-03T01:52:26Z" name="close" finished-at="2019-05-03T01:52:29Z" duration-ms="2224" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
