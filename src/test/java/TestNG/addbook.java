@@ -15,7 +15,7 @@ public class addbook {
 	  public void launch() {
 		  System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
 		  driver = new ChromeDriver();
-	 	  driver.get("http://192.168.2.6:8090/addressbook");
+	 	  driver.get("http://192.168.2.14:8090/addressbook");
 		  driver.manage().window().maximize();
 		  driver.manage().timeouts().implicitlyWait(30,TimeUnit.SECONDS);
 	  }
